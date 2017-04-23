@@ -1,6 +1,14 @@
 CHANGELOG
 =========
 
+
+2.0.0a1.dev1 (unreleased)
+-------------------------
+
+- refactor and rename to django-addons
+
+
+
 1.0.2 (2016-05-30)
 ------------------
 
